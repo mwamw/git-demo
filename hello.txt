@@ -3,5 +3,5 @@ print("heelo wordl);
 print("heelo wordl);
 print("heelo wordl);
 print("heelo wordl);
-print("heelo wordl);
-print("heelo wordl);
+dddprint("heelo wordl);
+dddprint("heelo wordl);
